@@ -40,3 +40,6 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/THORAGORK.mp4
 
 #EXTINF:-1 tvg-logo="https://fotos.ewmix.com/14983/cx173895.jpg" group-title="COLEÇÃO MARVEL",Pantera Negra
 http://cdnfe2.azureedge.net/RCFServer4/ondemand/PNTRNGR.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/wngAmP15tZY4MoZ0KX-cYvxdog0=/fit-in/640x480/smart/media/movies/covers/2014/06/hulk_t551.jpg" group-title="COLEÇÃO MARVEL",Hulk 2003
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true
