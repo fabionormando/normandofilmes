@@ -47,6 +47,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_Incredible_Hulk.jpg/250px-The_Incredible_Hulk.jpg" group-title="COLEÇÃO MARVEL",O Incrivel Hulk
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg" group-title="COLEÇÃO MARVEL",Homem de Ferro
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true
+
 #######################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",PALHAÇOS ASSASSINOS LEG
@@ -126,9 +129,6 @@ http://media-br-am.crackle.com/1/m/v6/3jvlf_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",Um Ato de Liberdade
 http://media-br-am.crackle.com/1/z/f6/c7ylf_480p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",Thor
-http://media-br-am.crackle.com/1/3/p6/kf4lf_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",S.W.A.T. - Comando Especial
 http://media-br-am.crackle.com/1/k/f6/m2ylf_480p.mp4
@@ -789,9 +789,6 @@ http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FILMES HD",VINGADORES 3: GUERRA INFINITA (DUB - TS)
 https://www2667.playercdn.net/187/1/YjUUEPeQtibrDh1eAW5RtA/1532912048/180614/Tu5WpyNFiSJDuk9.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FILMES HD",VINGADORES 3: GUERRA INFINITA (DUB - TS) MELHOR QUALIDADE
-https://tinyurl.com/y78vp68u
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="LANCAMENTOS",A ESCOLHA PERFEITA 3
 https://minhalista.live/channel/574114/amaroca/redirect
 
@@ -821,9 +818,6 @@ https://minhalista.live/channel/574131/amaroca/redirect
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="LANCAMENTOS",O ESTRANGEIRO
 https://minhalista.live/channel/574133/amaroca/redirect
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="LANCAMENTOS",PANTERA NEGRA
-https://minhalista.live/channel/574135/amaroca/redirect
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="LANCAMENTOS",OS PARCAS
 https://minhalista.live/channel/574136/amaroca/redirect
