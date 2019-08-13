@@ -1,0 +1,12 @@
+#EXTM3U
+############################
+LISTA DE FILMES NORMANDTV
+############################
+#EXTM3U:-1 pltv-logo="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-name="FILMES" pltv-description="LISTA DE FILMES" pltv-cover="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-author="FABIO NORMANDO"
+
+#PLAYLISTV: pltv-logo="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-name="FILMES" pltv-description="LISTA DE FILMES" pltv-cover="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-author="FABIO NORMANDO"
+
+################## FILMES ########################
+
+#EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
