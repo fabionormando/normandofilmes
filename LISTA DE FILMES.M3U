@@ -10,3 +10,10 @@ LISTA DE FILMES NORMANDTV
 
 #EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.ome.lt/Z8uv4h9Sl9w4b4xJJDFySIDGBXA=/fit-in/1070x750/smart/filer_public/d7/2b/d72bb848-8dc5-49a2-98cc-580dea871592/avengers-infinity-war-poster.jpeg" group-title="COLEÇÃO MARVEL",Vingadores Guerra Infinita
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
+
+#EXTINF:-1 tvg-logo="https://www.pontofrio-imagens.com.br/dvdsebluray/FilmeseSeriados/AcaoAventura/5437570/165200270/DVD-Vingadores-Era-de-Ultron-Avengers-Age-of-Ultron-5437570.jpg" group-title="COLEÇÃO MARVEL",Vingadores a Era de Ultron
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VNGDRSEDURON.mp4
+
