@@ -44,12 +44,15 @@ http://cdnfe2.azureedge.net/RCFServer4/ondemand/PNTRNGR.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/wngAmP15tZY4MoZ0KX-cYvxdog0=/fit-in/640x480/smart/media/movies/covers/2014/06/hulk_t551.jpg" group-title="COLEÇÃO MARVEL",Hulk 2003
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_Incredible_Hulk.jpg/250px-The_Incredible_Hulk.jpg" group-title="COLEÇÃO MARVEL",O Incrivel Hulk
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
+
 #######################################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",PALHAÇOS ASSASSINOS LEG
 http://lh3.googleusercontent.com/EX8zB3-CLL0XaYZT-ITqfbJKQk0dX2TGqw6ADvFp-kvQt1GU3TioMxOSy9UeBxtXX_LAAYSw=m37
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",WESTWORLD - ONDE NINGUEM TEM ALMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.fstatic.com/Z0EBTAVxpYaK4FKFLGR4bG7qvT0=/fit-in/290x478/smart/media/movies/covers/2013/10/westworld-onde-ninguem-tem-alma_t1211.jpg" group-title="FICÇÃO",WESTWORLD - ONDE NINGUEM TEM ALMA HD
 https://lh3.googleusercontent.com/Yi-zWkX3BtTlFjupyf83l_Lpz_6sCcweOFrA553Cg3cJcL5C8PK1TMFXTzYVwQPGwrnxcLzoJojp4Q=m22
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",UM SECULO EM 43 MINUTOS - LEG
