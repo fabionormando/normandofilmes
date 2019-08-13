@@ -34,3 +34,8 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOR.mp4
 
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/210/366/21036684_20130906171612077.jpg" group-title="COLEÇÃO MARVEL",Thor O Mundo Sombrio
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOROMNDSBR.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/17/08/26/00/05/175443.jpg" group-title="COLEÇÃO MARVEL",Thor Ragnarok
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/THORAGORK.mp4?attachment=true
+
+
