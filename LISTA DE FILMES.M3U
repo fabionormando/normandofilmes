@@ -31,3 +31,6 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/CAPTAMRC3.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8121iM6ua%2BL._SX342_.jpg" group-title="COLEÇÃO MARVEL",Thor
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOR.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/210/366/21036684_20130906171612077.jpg" group-title="COLEÇÃO MARVEL",Thor O Mundo Sombrio
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOROMNDSBR.mp4?attachment=true
