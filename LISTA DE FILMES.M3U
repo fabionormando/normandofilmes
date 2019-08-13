@@ -27,13 +27,5 @@ http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC1.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC2.mp4
 
 #EXTINF:-1 tvg-logo="http://statics.livrariacultura.net.br/products/capas_lg/768/46334768.jpg" group-title="COLEÇÃO MARVEL",Capitão América Guerra Civil
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/CAPTAMRC3.mp4
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CAPTAMRC3.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="https://d26lpennugtm8s.cloudfront.net/stores/290/058/products/poster-221-60d96256f6219e3a9b14735071636307-640-0.jpg" group-title="COLEÇÃO MARVEL",Thor
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOR.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/Cd3XT5S97vXhd-sJw6leOWEzKok=/fit-in/210x312/smart/media/movies/covers/2013/08/thor-o-mundo-sombrio_t37153.jpg" group-title="COLEÇÃO MARVEL",Thor o Mundo Sombrio
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOROMNDSBR.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/516PREKJQyL.jpg" group-title="COLEÇÃO MARVEL",Thor Ragnarok
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOROMNDSBR.mp4
