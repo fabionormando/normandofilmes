@@ -7,6 +7,8 @@ LISTA DE FILMES NORMANDTV
 #PLAYLISTV: pltv-logo="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-name="FILMES" pltv-description="LISTA DE FILMES" pltv-cover="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-author="FABIO NORMANDO"
 
 ################## FILMES ########################
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/24/21/29/2341995.jpg" group-title="LANÇAMENTOS",BOHEMIAN RHAPSODY
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
@@ -784,9 +786,6 @@ http://media-br-am.crackle.com/1/o/im/vrdyb_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="Acao",O Legionario
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FILMES HD",VINGADORES 3: GUERRA INFINITA (DUB - TS)
-https://www2667.playercdn.net/187/1/YjUUEPeQtibrDh1eAW5RtA/1532912048/180614/Tu5WpyNFiSJDuk9.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="LANCAMENTOS",A ESCOLHA PERFEITA 3
 https://minhalista.live/channel/574114/amaroca/redirect
