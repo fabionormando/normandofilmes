@@ -13,6 +13,9 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachmen
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/24/21/29/2341995.jpg" group-title="LANÇAMENTOS",BOHEMIAN RHAPSODY
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/medias/nmedia/18/91/79/19/20163665.jpg" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true
+
 #EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
 
