@@ -58,11 +58,32 @@ http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM01.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/Ghost_Rider_2_Poster.jpg/200px-Ghost_Rider_2_Poster.jpg" group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA ESPÍRITO DA VINGANÇA
 http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f3/Deadpool_cartaz.jpg/250px-Deadpool_cartaz.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL
+http://raull3.azureedge.net/RCFServer2/ondemand/DEADP.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d1/X-Men_2.jpg/250px-X-Men_2.jpg" group-title="COLEÇÃO MARVEL",X-MEN 2
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/56/X-Men_The_Last_Stand.jpg/250px-X-Men_The_Last_Stand.jpg" group-title="COLEÇÃO MARVEL",X-MEN 3 O CONFRONTO FINAL
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN03.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/X-Men_-_First_Class.jpg/250px-X-Men_-_First_Class.jpg" group-title="COLEÇÃO MARVEL",X-MEN PRIMEIRA CLASSE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN05.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
 
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
 
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL 2
+http://raull2.azureedge.net/RCFServer4/ondemand/DEADP2.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/06/X-Men_Filme.jpg/250px-X-Men_Filme.jpg" group-title="COLEÇÃO MARVEL",X-MEN O FILME
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN01.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
