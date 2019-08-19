@@ -70,11 +70,14 @@ http://raull3.azureedge.net/RCFServer3/ondemand/XMEN03.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/X-Men_-_First_Class.jpg/250px-X-Men_-_First_Class.jpg" group-title="COLEÇÃO MARVEL",X-MEN PRIMEIRA CLASSE
 http://raull3.azureedge.net/RCFServer3/ondemand/XMEN05.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/06/P%C3%B3ster_promocional_para_X-Men_Days_of_Future_Past.jpg/250px-P%C3%B3ster_promocional_para_X-Men_Days_of_Future_Past.jpg" group-title="COLEÇÃO MARVEL",X-MEN DIAS DE UM FUTURO ESQUECIDO
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN07.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91K%2BsDhfOtL._SY445_.jpg" group-title="COLEÇÃO MARVEL",X-MEN APOCALIPSE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMENAPCLPSE.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1Tz2Cm7J8Yj2St8n65TrsWOd8eH.jpg" group-title="COLEÇÃO MARVEL",X-MEN ORIGENS WOLVERINE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN04.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
 
