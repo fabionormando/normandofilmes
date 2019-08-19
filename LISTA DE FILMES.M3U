@@ -46,8 +46,23 @@ http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH02.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/37/Spider-Man_3.jpg/250px-Spider-Man_3.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA 3 (2007) 
 http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH03.mp4?attachment=true
 
-#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
-#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/89/74/47/20122663.jpg" group-title="COLEÇÃO MARVEL",O ESPETACULAR HOMEM ARANHA
+http://raull3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/07/21/16/425460.jpg" group-title="COLEÇÃO MARVEL",O ESPETACULAR HOMEM ARANHA 2 A AMEAÇA DE ELECTRO
+http://raull3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/xanT8Kc797uKYuqx-F4RWFkP1BY=/fit-in/290x478/smart/media/movies/covers/2011/09/5aadd777bd02e112febe681a568db2a8.jpg" group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA
+http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/Ghost_Rider_2_Poster.jpg/200px-Ghost_Rider_2_Poster.jpg" group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA ESPÍRITO DA VINGANÇA
+http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+
+#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
+
+#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",
 
 #EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
