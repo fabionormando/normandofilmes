@@ -19,6 +19,15 @@ http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO02.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cDuPdTr5w8o/WucZ1z_kD4I/AAAAAAAAhkY/yKnS4GtHY0sRzDyEKkpZLKp60tuk4IKvgCLcBGAs/s1600/homem%2Bde%2Bferro%2B3.jpg" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 3
 http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO03.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/09/29/21/15/495786.jpg" group-title="COLEÇÃO MARVEL",DOUTOR ESTRANHO
+http://raull3.azureedge.net/RCFServer3/ondemand/DRESTNHO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg" group-title="COLEÇÃO MARVEL",GUARDIÕES DA GALAXIA
+http://raull3.azureedge.net/RCFServer2/ondemand/GRDOESDGLXIA.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Guardians_of_the_galaxy_vol_two_poster.jpg/250px-Guardians_of_the_galaxy_vol_two_poster.jpg" group-title="COLEÇÃO MARVEL",GUARDIÕES DA GALAXIA 2
+http://raull2.azureedge.net/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?attachment=true
+
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
 
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
