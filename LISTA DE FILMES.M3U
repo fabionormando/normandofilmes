@@ -40,6 +40,13 @@ http://raull2.azureedge.net/RCFServer4/ondemand/HOMARNHDVLTALR.mp4?attachment=tr
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/Spide-Man_Poster.jpg/250px-Spide-Man_Poster.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA (2002)
 http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH01.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1a/Spider-Man_2.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA 2 (2004)
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/37/Spider-Man_3.jpg/250px-Spider-Man_3.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA 3 (2007) 
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH03.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
 #EXTINF:-1 tvg-logo="" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
 
 #EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
