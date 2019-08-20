@@ -7,6 +7,7 @@ LISTA DE FILMES NORMANDTV
 #PLAYLISTV: pltv-logo="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-name="FILMES" pltv-description="LISTA DE FILMES" pltv-cover="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-author="FABIO NORMANDO"
 
 ################## FILMES ########################
+
 #EXTINF:-1 tvg-logo="https://capas-m.imagemfilmes.com.br/164867_000_m.jpg" group-title="LANÇAMENTOS",REDBAD INVASÃO DOS FRANCOS
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
 
