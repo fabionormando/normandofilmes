@@ -19,6 +19,9 @@ http://raull3.azureedge.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=t
 
 ###################################################
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg" group-title="COLEÇÃO MARVEL",Homem de Ferro
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true
+
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/homem-de-ferro-2-aco-dvd-novo-original-lacrado-dublado-D_NQ_NP_689585-MLB27951342428_082018-F.jpg" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
 http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO02.mp4?attachment=true
 
@@ -67,6 +70,9 @@ http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f3/Deadpool_cartaz.jpg/250px-Deadpool_cartaz.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL
 http://raull3.azureedge.net/RCFServer2/ondemand/DEADP.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL 2
+http://raull2.azureedge.net/RCFServer4/ondemand/DEADP2.mp4?attachment=true
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d1/X-Men_2.jpg/250px-X-Men_2.jpg" group-title="COLEÇÃO MARVEL",X-MEN 2
 http://raull3.azureedge.net/RCFServer3/ondemand/XMEN02.mp4?attachment=true
 
@@ -90,9 +96,6 @@ http://raull3.azureedge.net/RCFServer3/ondemand/XMEN06.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Filme_Logan_2017.jpg" group-title="COLEÇÃO MARVEL",LOGAN
 http://raull2.azureedge.net/RCFServer4/ondemand/LOGN.mp4?attachment=true
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL 2
-http://raull2.azureedge.net/RCFServer4/ondemand/DEADP2.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/06/X-Men_Filme.jpg/250px-X-Men_Filme.jpg" group-title="COLEÇÃO MARVEL",X-MEN O FILME
 http://raull3.azureedge.net/RCFServer3/ondemand/XMEN01.mp4?attachment=true
@@ -135,9 +138,6 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_Incredible_Hulk.jpg/250px-The_Incredible_Hulk.jpg" group-title="COLEÇÃO MARVEL",O Incrivel Hulk
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg" group-title="COLEÇÃO MARVEL",Homem de Ferro
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true
 
 #######################################################
 
