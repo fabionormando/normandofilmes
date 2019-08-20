@@ -13,6 +13,11 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachmen
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/24/21/29/2341995.jpg" group-title="LANÇAMENTOS",BOHEMIAN RHAPSODY
 http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7e/Godzilla_King_of_the_Monsters.jpg/250px-Godzilla_King_of_the_Monsters.jpg" group-title="LANÇAMENTOS",GODZILLA 2 O REI DOS MONSTROS
+http://raull3.azureedge.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=true
+
+###################################################
+
 #EXTINF:-1 tvg-logo="https://http2.mlstatic.com/homem-de-ferro-2-aco-dvd-novo-original-lacrado-dublado-D_NQ_NP_689585-MLB27951342428_082018-F.jpg" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
 http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO02.mp4?attachment=true
 
@@ -151,12 +156,6 @@ https://lh3.googleusercontent.com/0UWHuJnhUt_pqqS2VfrnQywFDNXTLfHpC9X-KN7cpOcAiu
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="Ficcao Cientifica",Contatos Imediatos de Terceiro Grau
 http://media-br-am.crackle.com/1/9/v6/o2zlf_480p.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",Resident Evil - O Hospede Maldito
-http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",Resident Evil 3: A Extincao
-http://media-br-am.crackle.com/1/0/v6/n1zlf_480p.mp4
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="FICÇÃO",Skyline - A Invasao
 http://media-br-am.crackle.com/1/m/km/u5eyb_480p.mp4
 
@@ -192,10 +191,6 @@ https://lh3.googleusercontent.com/OAvskBiXu0r3V0V17hvc6_flDCVk_2V3TIbFbVJoR-AOzy
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",O Senhor das Armas
 http://media-br-am.crackle.com/1/j/z6/2tvlf_480p.mp4
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",X MEN APOCALIPSE
-http://deliverycontent.vstreaming.net/movies/xmenapocalipse-dub-720p.mp4
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",O Legionario
 http://media-br-am.crackle.com/1/9/d6/a5vlf_480p.mp4
 
@@ -213,9 +208,6 @@ http://media-br-am.crackle.com/1/x/z6/lsvlf_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",Impacto Mortal
 http://media-br-am.crackle.com/1/n/v6/6jvlf_480p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",Homem Aranha
-http://media-br-am.crackle.com/1/z/p6/6b4lf_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",A Ultima Missao
 http://media-br-am.crackle.com/1/m/h6/16vlf_480p.mp4?STANIPTV
@@ -249,9 +241,6 @@ http://media-br-am.crackle.com/1/4/v6/3ovlf_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",O Chamado de Xangai
 http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4?STANIPTV
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",Resident Evil - O Hospede Maldito
-http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tinyurl.com/y7qmkb8l" group-title="AÇÃO",As Duas Faces Da Lei
 http://media-br-am.crackle.com/1/r/v6/okvlf_480p.mp4
