@@ -1,0 +1,150 @@
+#EXTM3U
+############################
+LISTA DE FILMES NORMANDTV
+############################
+#EXTM3U:-1 pltv-logo="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-name="FILMES" pltv-description="LISTA DE FILMES" pltv-cover="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-author="FABIO NORMANDO"
+
+#PLAYLISTV: pltv-logo="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-name="FILMES" pltv-description="LISTA DE FILMES" pltv-cover="https://designrfix.com/wp-content/uploads/2010/08/ipad-wallpaper-2010-august-22.jpg" pltv-author="FABIO NORMANDO"
+
+################## FILMES ########################
+
+#EXTINF:-1 tvg-logo="https://capas-m.imagemfilmes.com.br/164867_000_m.jpg" group-title="LANÇAMENTOS",REDBAD INVASÃO DOS FRANCOS
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/24/21/29/2341995.jpg" group-title="LANÇAMENTOS",BOHEMIAN RHAPSODY
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7e/Godzilla_King_of_the_Monsters.jpg/250px-Godzilla_King_of_the_Monsters.jpg" group-title="LANÇAMENTOS",GODZILLA 2 O REI DOS MONSTROS
+http://raull3.azureedge.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=true
+
+###################################################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg" group-title="COLEÇÃO MARVEL",HOMEN DE FERRO
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMNDEFRO01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://http2.mlstatic.com/homem-de-ferro-2-aco-dvd-novo-original-lacrado-dublado-D_NQ_NP_689585-MLB27951342428_082018-F.jpg" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 2
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cDuPdTr5w8o/WucZ1z_kD4I/AAAAAAAAhkY/yKnS4GtHY0sRzDyEKkpZLKp60tuk4IKvgCLcBGAs/s1600/homem%2Bde%2Bferro%2B3.jpg" group-title="COLEÇÃO MARVEL",HOMEM DE FERRO 3
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNDEFRO03.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/16/09/29/21/15/495786.jpg" group-title="COLEÇÃO MARVEL",DOUTOR ESTRANHO
+http://raull3.azureedge.net/RCFServer3/ondemand/DRESTNHO.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b2/Guardiansgalaxyposter.jpg" group-title="COLEÇÃO MARVEL",GUARDIÕES DA GALAXIA
+http://raull3.azureedge.net/RCFServer2/ondemand/GRDOESDGLXIA.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/07/Guardians_of_the_galaxy_vol_two_poster.jpg/250px-Guardians_of_the_galaxy_vol_two_poster.jpg" group-title="COLEÇÃO MARVEL",GUARDIÕES DA GALAXIA 2
+http://raull2.azureedge.net/RCFServer4/ondemand/GRDOESDGLXIAVL2.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/90/Ant_Man-Poster.jpg/250px-Ant_Man-Poster.jpg" group-title="COLEÇÃO MARVEL",HOMEM FORMIGA
+http://raull3.azureedge.net/RCFServer2/ondemand/HMNFRMGA.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/20541-cartaz.jpg" group-title="COLEÇÃO MARVEL",HOMEM FORMIGA E VESPA
+http://raull2.azureedge.net/RCFServer4/ondemand/HMNFRMGEVSPA.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/filme-homemaranhadevoltalar1-fef7d091d228a6782115071478130269-640-0.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA DE VOLTA AO LAR
+http://raull2.azureedge.net/RCFServer4/ondemand/HOMARNHDVLTALR.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/14/Spide-Man_Poster.jpg/250px-Spide-Man_Poster.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA (2002)
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1a/Spider-Man_2.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA 2 (2004)
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/3/37/Spider-Man_3.jpg/250px-Spider-Man_3.jpg" group-title="COLEÇÃO MARVEL",HOMEM ARANHA 3 (2007) 
+http://raull3.azureedge.net/RCFServer1/ondemand/HMNARNH03.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/89/74/47/20122663.jpg" group-title="COLEÇÃO MARVEL",O ESPETACULAR HOMEM ARANHA
+http://raull3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/14/01/07/21/16/425460.jpg" group-title="COLEÇÃO MARVEL",O ESPETACULAR HOMEM ARANHA 2 A AMEAÇA DE ELECTRO
+http://raull3.azureedge.net/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/xanT8Kc797uKYuqx-F4RWFkP1BY=/fit-in/290x478/smart/media/movies/covers/2011/09/5aadd777bd02e112febe681a568db2a8.jpg" group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA
+http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/2f/Ghost_Rider_2_Poster.jpg/200px-Ghost_Rider_2_Poster.jpg" group-title="COLEÇÃO MARVEL",MOTOQUEIRO FANTASMA ESPÍRITO DA VINGANÇA
+http://raull3.azureedge.net/RCFServer1/ondemand/MTQRFNTSM02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/f/f3/Deadpool_cartaz.jpg/250px-Deadpool_cartaz.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL
+http://raull3.azureedge.net/RCFServer2/ondemand/DEADP.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/04/19/15/31/2232385.jpg" group-title="COLEÇÃO MARVEL",DEADPOOL 2
+http://raull2.azureedge.net/RCFServer4/ondemand/DEADP2.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/06/X-Men_Filme.jpg/250px-X-Men_Filme.jpg" group-title="COLEÇÃO MARVEL",X-MEN O FILME
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN01.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d1/X-Men_2.jpg/250px-X-Men_2.jpg" group-title="COLEÇÃO MARVEL",X-MEN 2
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN02.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/56/X-Men_The_Last_Stand.jpg/250px-X-Men_The_Last_Stand.jpg" group-title="COLEÇÃO MARVEL",X-MEN 3 O CONFRONTO FINAL
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN03.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/66/X-Men_-_First_Class.jpg/250px-X-Men_-_First_Class.jpg" group-title="COLEÇÃO MARVEL",X-MEN PRIMEIRA CLASSE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN05.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/06/P%C3%B3ster_promocional_para_X-Men_Days_of_Future_Past.jpg/250px-P%C3%B3ster_promocional_para_X-Men_Days_of_Future_Past.jpg" group-title="COLEÇÃO MARVEL",X-MEN DIAS DE UM FUTURO ESQUECIDO
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN07.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91K%2BsDhfOtL._SY445_.jpg" group-title="COLEÇÃO MARVEL",X-MEN APOCALIPSE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMENAPCLPSE.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w342/1Tz2Cm7J8Yj2St8n65TrsWOd8eH.jpg" group-title="COLEÇÃO MARVEL",X-MEN ORIGENS WOLVERINE
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN04.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/74/The_Wolverine_posterUS.jpg/250px-The_Wolverine_posterUS.jpg" group-title="COLEÇÃO MARVEL",WOLVERINE IMORTAL
+http://raull3.azureedge.net/RCFServer3/ondemand/XMEN06.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2d/Filme_Logan_2017.jpg" group-title="COLEÇÃO MARVEL",LOGAN
+http://raull2.azureedge.net/RCFServer4/ondemand/LOGN.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://www.hojeemdia.com.br/polopoly_fs/1.701142.1552678426!/image/image.jpg_gen/derivatives/landscape_300/image.jpg" group-title="COLEÇÃO MARVEL",Vingadores Ultimato
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/VNGDRSULTMTO.mp4
+
+#EXTINF:-1 tvg-logo="https://cdn.ome.lt/Z8uv4h9Sl9w4b4xJJDFySIDGBXA=/fit-in/1070x750/smart/filer_public/d7/2b/d72bb848-8dc5-49a2-98cc-580dea871592/avengers-infinity-war-poster.jpeg" group-title="COLEÇÃO MARVEL",Vingadores Guerra Infinita
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/VNGDRSGRAINFNT.mp4
+
+#EXTINF:-1 tvg-logo="https://www.pontofrio-imagens.com.br/dvdsebluray/FilmeseSeriados/AcaoAventura/5437570/165200270/DVD-Vingadores-Era-de-Ultron-Avengers-Age-of-Ultron-5437570.jpg" group-title="COLEÇÃO MARVEL",Vingadores a Era de Ultron
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/VNGDRSEDURON.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/The_Avengers_Cartaz.jpg/250px-The_Avengers_Cartaz.jpg" group-title="COLEÇÃO MARVEL",Vingadores
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSVGDRS.mp4
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6c/f6/d0/6cf6d03001a50f9b39b98e49bdead87e.jpg" group-title="COLEÇÃO MARVEL",Capitão América o Primeiro Vingador
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC1.mp4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Captain_America_The_Winter_Soldier.jpg/250px-Captain_America_The_Winter_Soldier.jpg" group-title="COLEÇÃO MARVEL",Capitão América o Soldado Invernal
+http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC2.mp4
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/d0/e4/6f/d0e46f1b-d57b-c64b-365b-dfd23d4cc29b/pr_source.jpg/268x0w.jpg" group-title="COLEÇÃO MARVEL",Capitão América Guerra Civil
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/CAPTAMRC3.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8121iM6ua%2BL._SX342_.jpg" group-title="COLEÇÃO MARVEL",Thor
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOR.mp4
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/210/366/21036684_20130906171612077.jpg" group-title="COLEÇÃO MARVEL",Thor O Mundo Sombrio
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOROMNDSBR.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e6/47/f3/e647f3873bf91208e1920ff0ce346dd6.jpg" group-title="COLEÇÃO MARVEL",Thor Ragnarok
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/THORAGORK.mp4
+
+#EXTINF:-1 tvg-logo="https://fotos.ewmix.com/14983/cx173895.jpg" group-title="COLEÇÃO MARVEL",Pantera Negra
+http://cdnfe2.azureedge.net/RCFServer4/ondemand/PNTRNGR.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/wngAmP15tZY4MoZ0KX-cYvxdog0=/fit-in/640x480/smart/media/movies/covers/2014/06/hulk_t551.jpg" group-title="COLEÇÃO MARVEL",Hulk 2003
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_Incredible_Hulk.jpg/250px-The_Incredible_Hulk.jpg" group-title="COLEÇÃO MARVEL",O Incrivel Hulk
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
+
+#######################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAÇÃO",PÉ GRANDE VS PAPAI NOEL
+https://soamazewow.verystream.net/stream/g5vuvFPT1dt/X_zgIlzaeojbS7tf/NrzzJadEwHz_5rzPA-mN9EFGlFFZ784ShORTf_mqxts7IlL2tqxuuv4uOgQwo6SKucVCgBrimzhf-8ovOwFebYQCEVGYDzXZzIhoyaAf9TLM1O5oLIZLKnc9yrK6HAhARBSAGde3gUZzuSMkUiC7uQ982Mps2hZNnIkFDgfRfN5xn9Yn9Yc4hODT0doJIAX4ot5MWly6B2zORudv0295oV-_GDpUS2760nP_Ev2nKCOVGDFIgS8hPTh8Ra2evHsIioA6_hwa0KPsO6f0ayYlW4Z8LKz4y4wxm06XhVKSvLydeZCbSgaG9RjeYPyK07caXMkxpuci2Xaf4GewJ26DJYIXYjpdHILjWuhqelu0c2Obk3bdue87mZrsfC8y-OLdLzvTNdnaitBWgXMA6sLpKs0OkO1rF1sOGWydqr-8TsGfbZ-kxwq1wBin0HGuaqHw/HDFILMES.PRO_95e29f339aae.mp4?mime=true
+
+#################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Aladdin_%282019%29.jpg/250px-Aladdin_%282019%29.jpg" group-title="LANÇAMENTOS",ALADDIN
+https://www375.hlsmp4.com/token=rB2vxVbFVulPSPwCy1krNg/1566623469/0.0.0.0/46/9/fc/c7380e067cf0c916774b76aa06c7efc9-480p.mp4
