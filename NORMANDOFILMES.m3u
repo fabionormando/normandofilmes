@@ -108,10 +108,10 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/OSVGDRS.mp4
 http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC1.mp4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/e8/Captain_America_The_Winter_Soldier.jpg/250px-Captain_America_The_Winter_Soldier.jpg" group-title="COLEÇÃO MARVEL",Capitão América o Soldado Invernal
-http://cdnfe3.azureedge.net/RCFServer2/ondemand/CAPTAMRC2.mp4
+http://mrq1.azureedge.net/movies/capitaoamericaosoldadoinvernal-dub-1080p.mp4
 
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Video118/v4/d0/e4/6f/d0e46f1b-d57b-c64b-365b-dfd23d4cc29b/pr_source.jpg/268x0w.jpg" group-title="COLEÇÃO MARVEL",Capitão América Guerra Civil
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/CAPTAMRC3.mp4?attachment=true
+http://mrq1.azureedge.net/movies/guerracivil-dub-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/8121iM6ua%2BL._SX342_.jpg" group-title="COLEÇÃO MARVEL",Thor
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/THOR.mp4
@@ -137,7 +137,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
 http://mrq1.azureedge.net/movies/hellboy-dub-1080p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Aladdin_%282019%29.jpg/250px-Aladdin_%282019%29.jpg" group-title="LANÇAMENTOS",ALADDIN
-https://www375.hlsmp4.com/token=rB2vxVbFVulPSPwCy1krNg/1566623469/0.0.0.0/46/9/fc/c7380e067cf0c916774b76aa06c7efc9-480p.mp4
+http://mrq1.azureedge.net/movies/aladdints-dub-720p.mp4
 
 #EXTINF:-1 tvg-logo="https://capas-m.imagemfilmes.com.br/164867_000_m.jpg" group-title="LANÇAMENTOS",REDBAD INVASÃO DOS FRANCOS
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
