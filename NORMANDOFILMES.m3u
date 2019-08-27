@@ -157,6 +157,11 @@ http://mrq1.azureedge.net/movies/velozesfuriosos2019-dub-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/pictures/19/05/07/20/54/2901026.jpg" group-title="LANÇAMENTOS",O REI LEÃO
 http://mrq1.azureedge.net/movies/reileaots-dub-720p.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/50/Shazam%21.jpg/250px-Shazam%21.jpg" group-title="LANÇAMENTOS",SHAZAN
+http://mrq1.azureedge.net/movies/shazam-dub-1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
 
 
