@@ -8,14 +8,6 @@ LISTA DE FILMES NORMANDTV
 
 ################## FILMES ########################
 
-#EXTINF:-1 tvg-logo="https://capas-m.imagemfilmes.com.br/164867_000_m.jpg" group-title="LANÇAMENTOS",REDBAD INVASÃO DOS FRANCOS
-http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
-
-#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/24/21/29/2341995.jpg" group-title="LANÇAMENTOS",BOHEMIAN RHAPSODY
-http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7e/Godzilla_King_of_the_Monsters.jpg/250px-Godzilla_King_of_the_Monsters.jpg" group-title="LANÇAMENTOS",GODZILLA 2 O REI DOS MONSTROS
-http://raull3.azureedge.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=true
 
 ###################### COLEÇÃO MARVEL #############################
 
@@ -141,11 +133,26 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
 
 ########################## ANIMAÇÃO #############################
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ANIMAÇÃO",PÉ GRANDE VS PAPAI NOEL
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottvsimg.ottvs.com.br/cov/itn.065630/0065630_200.jpg" group-title="ANIMAÇÃO",PÉ GRANDE VS PAPAI NOEL
 https://soamazewow.verystream.net/stream/g5vuvFPT1dt/X_zgIlzaeojbS7tf/NrzzJadEwHz_5rzPA-mN9EFGlFFZ784ShORTf_mqxts7IlL2tqxuuv4uOgQwo6SKucVCgBrimzhf-8ovOwFebYQCEVGYDzXZzIhoyaAf9TLM1O5oLIZLKnc9yrK6HAhARBSAGde3gUZzuSMkUiC7uQ982Mps2hZNnIkFDgfRfN5xn9Yn9Yc4hODT0doJIAX4ot5MWly6B2zORudv0295oV-_GDpUS2760nP_Ev2nKCOVGDFIgS8hPTh8Ra2evHsIioA6_hwa0KPsO6f0ayYlW4Z8LKz4y4wxm06XhVKSvLydeZCbSgaG9RjeYPyK07caXMkxpuci2Xaf4GewJ26DJYIXYjpdHILjWuhqelu0c2Obk3bdue87mZrsfC8y-OLdLzvTNdnaitBWgXMA6sLpKs0OkO1rF1sOGWydqr-8TsGfbZ-kxwq1wBin0HGuaqHw/HDFILMES.PRO_95e29f339aae.mp4?mime=true
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/12/05/16/28/3718855.jpg" group-title="ANIMAÇÃO",HOMEM ARANHA NO ARRANHAVERSO
+http://mrq1.azureedge.net/movies/aranhaverso-dub-720p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/20987-cartaz.jpg" group-title="ANIMAÇÃO",WIFI RALPH QUEBRANDO A INTERNET
+http://mrq1.azureedge.net/movies/wifiralphh-dub-720p.mp4
 ############################## LANÇAMENTOS ###################################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Aladdin_%282019%29.jpg/250px-Aladdin_%282019%29.jpg" group-title="LANÇAMENTOS",ALADDIN
 https://www375.hlsmp4.com/token=rB2vxVbFVulPSPwCy1krNg/1566623469/0.0.0.0/46/9/fc/c7380e067cf0c916774b76aa06c7efc9-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://capas-m.imagemfilmes.com.br/164867_000_m.jpg" group-title="LANÇAMENTOS",REDBAD INVASÃO DOS FRANCOS
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/REDBDANVSAODSFRNCS.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/18/08/24/21/29/2341995.jpg" group-title="LANÇAMENTOS",BOHEMIAN RHAPSODY
+http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/7/7e/Godzilla_King_of_the_Monsters.jpg/250px-Godzilla_King_of_the_Monsters.jpg" group-title="LANÇAMENTOS",GODZILLA 2 O REI DOS MONSTROS
+http://raull3.azureedge.net/RCFServer1/ondemand/GDZLAOREDSMNSTS.mp4?attachment=true
+
 
