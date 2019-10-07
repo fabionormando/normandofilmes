@@ -196,6 +196,9 @@ http://mrq1.azureedge.net/movies/ramboateofimts-dub-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/5925962/MV5BN2EwYzQwNzAtMzU3ZC00MmQzLWIwMDUtOTdjZjE5Y2MwYmViXkEyXkFqcGdeQXVyMTA1NTU5MDQ1__V1_SY1000_CR0_0_785_1000_AL_.jpg" group-title="LANÇAMENTOS",IT CAPÍTULO 2
 http://mrq1.azureedge.net/movies/itcapitulodoists-dub-720p.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/r_1280_720/pictures/19/04/25/14/18/1589482.jpg" group-title="LANÇAMENTOS", MIB HOMENS DE PRETO INTERNACIONAL
+http://mrq1.azureedge.net/movies/mibinternational-dub-1080p.mp4
+
 
 #####################  AVENTURA  ###########################
 #EXTINF:-1 tvg-id="" tvg-logo="https://kbimages1-a.akamaihd.net/ef0d95bb-9849-48c2-9c09-f9e501b60832/1200/1200/False/maquinas-mortais.jpg" group-title="AVENTURA",MAQUINAS MORTAIS
@@ -204,11 +207,11 @@ http://mrq1.azureedge.net/movies/corridasmortais-dub-720p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img2.acsta.net/c_215_290/pictures/19/04/05/20/54/1435524.jpg" group-title="AVENTURA",A MENINA E O LEÃO
 https://www1695.hlsmp4.com/token=ML6y9sfbxNQwbWxDihAX9A/1567388181/0.0.0.0/61/8/b4/d04321565bc18d0e6af5d72cc960ab48-480p.mp4
 
-######################CLÁSSICOS#########################
+######################COMÉDIA#########################
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.fstatic.com/dNgA8Wt_PnSAy2NESZC2svfYmRk=/fit-in/290x478/smart/media/movies/covers/2017/01/medium_d00617c4f09dc3bdf4ea0c49302f95cc-perfekta-stoten-poster.jpg" group-title="COMÉDIA",ASSALTO PERFEITO
+http://mrq1.azureedge.net/movies/oassaltoperfeito-dub-720p.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
 
 #####################################################
