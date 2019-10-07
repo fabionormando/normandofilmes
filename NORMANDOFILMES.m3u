@@ -131,7 +131,7 @@ http://cdnfe3.azureedge.net/RCFServer1/ondemand/HULK.mp4?attachment=true
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/1b/The_Incredible_Hulk.jpg/250px-The_Incredible_Hulk.jpg" group-title="COLEÇÃO MARVEL",O Incrivel Hulk
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/OINCVLHLK.mp4?attachment=true
 
-#######################################################
+########################LANÇAMENTOS###############################
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/812rYT9RviL._SY606_.jpg" group-title="LANÇAMENTOS",HELLBOY 2019
 http://mrq1.azureedge.net/movies/hellboy-dub-1080p.mp4
@@ -149,7 +149,7 @@ http://cdnfe3.azureedge.net/RCFServer3/ondemand/BOHMNRHPSODY.mp4?attachment=true
 http://mrq1.azureedge.net/movies/godzilla2019-dub-1080p.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/21308-cartaz.jpg" group-title="LANÇAMENTOS",HOMEM ARANHA LONGE DE CASA
-http://mrq1.azureedge.net/movies/homemaranhalongedecasats-dub-720p.mp4
+http://cdnfe3.azureedge.net/RCFServer1/ondemand/HMEMARNHLNGDCSA.mp4?attachment=true
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://1realahora.com/wp-content/uploads/2019/02/qxvTfVF16yU-e1549035217887.jpg" group-title="LANÇAMENTOS",VELOZES E FURIOSOS
 http://mrq1.azureedge.net/movies/velozesfuriosos2019-dub-720p.mp4
@@ -187,6 +187,15 @@ http://mrq1.azureedge.net/movies/dumbo-dub-1080p.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81PjK6KtcEL._SX342_.jpg" group-title="LANÇAMENTOS",JOHN WICK 3
 http://cdnfe3.azureedge.net/RCFServer1/ondemand/JHNWCK3.mp4?attachment=true
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://ottvsimg.ottvs.com.br/cov/fox.067656/0067656_335.jpg" group-title="LANÇAMENTOS",X-MEN FÊNIX NEGRA
+http://mrq1.azureedge.net/movies/fenixnegra-dub-720p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://br.web.img3.acsta.net/c_215_290/pictures/19/08/12/22/46/1191330.jpg" group-title="LANÇAMENTOS",RAMBO ATE O FIM
+http://mrq1.azureedge.net/movies/ramboateofimts-dub-720p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbcdn1.podbean.com/imglogo/image-logo/5925962/MV5BN2EwYzQwNzAtMzU3ZC00MmQzLWIwMDUtOTdjZjE5Y2MwYmViXkEyXkFqcGdeQXVyMTA1NTU5MDQ1__V1_SY1000_CR0_0_785_1000_AL_.jpg" group-title="LANÇAMENTOS",IT CAPÍTULO 2
+http://mrq1.azureedge.net/movies/itcapitulodoists-dub-720p.mp4
+
 
 #####################  AVENTURA  ###########################
 #EXTINF:-1 tvg-id="" tvg-logo="https://kbimages1-a.akamaihd.net/ef0d95bb-9849-48c2-9c09-f9e501b60832/1200/1200/False/maquinas-mortais.jpg" group-title="AVENTURA",MAQUINAS MORTAIS
@@ -197,8 +206,10 @@ https://www1695.hlsmp4.com/token=ML6y9sfbxNQwbWxDihAX9A/1567388181/0.0.0.0/61/8/
 
 ######################CLÁSSICOS#########################
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="LANÇAMENTOS",
 
 #####################################################
 
